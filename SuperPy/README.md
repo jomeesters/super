@@ -252,7 +252,6 @@ Total revenue in 2023: $101.75
 ```
 
 
-&nbsp;
 
 ## The REPORT-PERIOD command:
 
